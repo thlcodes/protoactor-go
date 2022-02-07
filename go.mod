@@ -1,4 +1,4 @@
-module github.com/AsynkronIT/protoactor-go
+module github.com/thlcodes/protoactor-go
 
 // because etcd/v3 need go 1.16 version
 go 1.16
